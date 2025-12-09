@@ -1,0 +1,15 @@
+{
+    "Information": [
+        "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda .NET CLI tool.",
+        "To learn more about the CLI tool go to https://github.com/aws/aws-lambda-dotnet#dotnet-tool-global-tools-dotnet-lambda"
+    ],
+    "profile": "default",
+    "region": "ap-southeast-1",
+    "configuration": "Release",
+    "framework": "net8.0",
+    "function-runtime": "dotnet8",
+    "function-memory-size": 256,
+    "function-timeout": 30,
+    "function-handler": "WeatherBackend",
+    "files": "bin/Release/net8.0/publish"
+}
