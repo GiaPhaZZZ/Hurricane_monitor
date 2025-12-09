@@ -1,0 +1,15 @@
+{
+  "history": [
+    {"lat": 15.0, "lng": 107.0, "windSpeed": 65},
+    {"lat": 15.1, "lng": 107.1, "windSpeed": 70},
+    {"lat": 15.2, "lng": 107.2, "windSpeed": 75},
+    {"lat": 15.3, "lng": 107.3, "windSpeed": 80},
+    {"lat": 15.4, "lng": 107.4, "windSpeed": 85},
+    {"lat": 15.5, "lng": 107.5, "windSpeed": 90},
+    {"lat": 15.6, "lng": 107.6, "windSpeed": 95},
+    {"lat": 15.7, "lng": 107.7, "windSpeed": 100},
+    {"lat": 15.8, "lng": 107.8, "windSpeed": 105}
+  ],
+  "storm_name": "Test Storm",
+  "storm_id": "TEST001"
+}
