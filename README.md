@@ -27,7 +27,7 @@
 
 Hurricane Monitor is a comprehensive storm tracking and prediction system that provides:
 
-- **Real-time Storm Tracking**: Automated data collection from IBTrACS every 30 minutes
+- **Real-time Storm Tracking**: Automated data collection from IBTrACS
 - **AI-Powered Prediction**: LSTM + TCN models for trajectory forecasting
 - **Interactive Visualization**: Leaflet-based map with multiple weather layers
 - **Weather Integration**: Real-time weather data from OpenWeatherMap
@@ -42,7 +42,6 @@ Hurricane Monitor is a comprehensive storm tracking and prediction system that p
 - Automatic crawling of 3 most recent Western Pacific storms
 - Historical track visualization with animated paths
 - Storm intensity classification (Tropical Depression → Super Typhoon)
-- Real-time position updates every 30 minutes
 
 ### 🤖 AI Prediction
 - **LSTM Model**: Predicts total distance storm will travel
