@@ -27,6 +27,8 @@
 
 ## 🎯 Overview
 
+![System Architecture](Hurricane_monitor/proposal_doc/Screenshot%202026-06-04%20094950.png)
+
 Hurricane Monitor is a comprehensive storm tracking and prediction system that provides:
 
 - **Real-time Storm Tracking**: Automated data collection from IBTrACS
