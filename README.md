@@ -1,6 +1,6 @@
-# 🌀 Hurricane Monitor - Western Pacific Region
+# 🌀 Hurricane Monitor - Western Pacific Region - A SKYNET project
 
-> Real-time storm tracking and AI-powered trajectory prediction system for the Western Pacific Ocean
+> Real-time storm tracking and AI-powered trajectory prediction system for the Western Pacific Ocean.
 
 [![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20S3%20%7C%20CloudFront-orange)](https://aws.amazon.com/)
 [![React](https://img.shields.io/badge/React-19.1.1-blue)](https://reactjs.org/)
